@@ -1,2 +1,3 @@
-streamlitpandasmatplotlib
-0 commit commentsComments0
+streamlit
+pandas
+matplotlib
